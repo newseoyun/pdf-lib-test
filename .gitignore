@@ -1,0 +1,11 @@
+.svn/
+.history/
+.vscode/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+node_modules/
